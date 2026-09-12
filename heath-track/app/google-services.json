@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830922782034",
+    "project_id": "heathtrack-1a2b3",
+    "storage_bucket": "heathtrack-1a2b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830922782034:android:90b5a118dd2513a849368b",
+        "android_client_info": {
+          "package_name": "com.aistudio.vitaflow.hxqt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlzoAckMcXiF8tFBzr_ojpD8dIXSb-ls0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

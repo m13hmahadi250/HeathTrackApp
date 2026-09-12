@@ -1,0 +1,7 @@
+{
+  "name": "Heath Track",
+  "description": "A premium, modern, privacy-focused health and fitness app emphasizing consistency over restriction with personalized nutrition, hydration, activity, sleep, and habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
